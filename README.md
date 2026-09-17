@@ -40,7 +40,7 @@ Esta seção será atualizada durante o curso com novos projetos e atividades.
 
 ## 📖 Diário de Bordo
 
-## ☕ Café e Integração com a Turma
+### ☕ Café e Integração com a Turma
 
 Durante as primeiras semanas da faculdade, tivemos um momento de integração com a turma e alguns professores. Foi realizado um café em que os alunos puderam conversar, se conhecer melhor e ter um contato mais próximo com os professores.
 
