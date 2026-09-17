@@ -18,7 +18,7 @@ Sou estudante de Desenvolvimento de Software Multiplataforma (DSM) e estou desen
 
 ## 📞 Contatos
 
-- GitHub: Mineirinho2026
+- GitHub: joel-dev-crypto
 - joelgoncalvesdesouza50@gmail.com
 
 ## 📚 Conteúdos
