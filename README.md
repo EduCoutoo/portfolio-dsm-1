@@ -12,6 +12,15 @@ Este portfólio tem como objetivo registrar meu processo de aprendizagem durante
 - Instituição: FATEC Indaiatuba
 - Ano: 2026
 
+## 👤 Perfil Acadêmico e Profissional
+
+Sou estudante de Desenvolvimento de Software Multiplataforma (DSM) e estou desenvolvendo conhecimentos na área de tecnologia, programação e desenvolvimento de software.
+
+## 📞 Contatos
+
+- GitHub: Mineirinho2026
+- joelgoncalvesdesouza50@gmail.com
+
 ## 📚 Conteúdos
 
 ### Capítulo 1
