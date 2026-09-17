@@ -1,6 +1,9 @@
 # Exercício 1 — Estrutura de sequenciação
 Elabore um algoritmo que calcule a área de um círculo qualquer de raio fornecido:
 
+## Data
+23/09/2026
+
 <img width="1384" height="139" alt="image" src="https://github.com/user-attachments/assets/d531314d-c587-43c3-a332-dfe206a5324a" />
 
 **Explicação:**
@@ -28,6 +31,9 @@ _de 18 até 65 → eleitor obrigatório
 
 _maior de 65 → eleitor facultativo
 
+## Data
+23/09/2026
+
 <img width="1190" height="313" alt="image" src="https://github.com/user-attachments/assets/8da6d584-26f8-48c6-b0cc-d0b1b78a2826" />
 
 ## Explicação
@@ -45,6 +51,9 @@ Aprendi a usar `if`, `elif` e `else` para fazer o programa tomar decisões de ac
 # Exercício 3 — Estrutura de repetição
 **exercício 17:** Construa um algoritmo que gere os 20 primeiros termos de uma série tal qual a de Fibonacci, mas cujos dois primeiros termos são fornecidos pelo usuário.
 
+## Data
+23/09/2026
+
 <img width="1117" height="654" alt="image" src="https://github.com/user-attachments/assets/0cb4f501-c337-4812-ba95-5885968c6c6b" />
 
 ## Explicação
@@ -61,6 +70,9 @@ Aprendi a usar o `for` e o `range()` para repetir uma ação várias vezes. Tamb
 
 # Exercício 4 — Repetição + maior e menor
 exercício 18: Construa um algoritmo que, dado um conjunto de valores inteiros e positivos, determine qual o menor e o maior valor do conjunto. O final do conjunto é indicado pelo valor -1, que não deve ser considerado.
+
+## Data
+23/09/2026
 
 <img width="1100" height="603" alt="image" src="https://github.com/user-attachments/assets/d51bc541-711e-45d4-a2e4-8467b1e4b07b" />
 
