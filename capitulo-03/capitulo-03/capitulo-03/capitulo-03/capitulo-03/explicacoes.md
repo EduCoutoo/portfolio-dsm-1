@@ -23,13 +23,13 @@ A partir da idade informada de uma pessoa, elabore um algoritmo que informe sua 
 
 As condições são:
 
-_menor de 16 → não votante
+menor de 16 → não votante
 
-_de 16 até menor de 18 → eleitor facultativo
+de 16 até menor de 18 → eleitor facultativo
 
-_de 18 até 65 → eleitor obrigatório
+de 18 até 65 → eleitor obrigatório
 
-_maior de 65 → eleitor facultativo
+maior de 65 → eleitor facultativo
 
 ## Data
 23/09/2026
