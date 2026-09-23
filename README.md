@@ -47,7 +47,4 @@ Estruturas de controle:
 
 Esta seção será atualizada durante o curso com novos projetos e atividades.
 
-## Diário de Bordo
-
-
-Fotos do café, da turma e dos momentos de integração realizados na faculdade.
+## Diário de Bordo 
