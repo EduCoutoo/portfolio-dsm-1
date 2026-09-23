@@ -24,10 +24,10 @@ Sou estudante de Desenvolvimento de Software Multiplataforma (DSM) e estou desen
 ## Conteúdos
 
 ### Capítulo 1
-Exercícios de introdução à lógica de programação.
+Avaliação de introdução à lógica de programação.
 
 ### Capítulo 2
-Exercícios relacionados aos tópicos preliminares da programação.
+Avaliação relacionados aos tópicos preliminares da programação.
 
 ### Capítulo 3
 Estruturas de controle:
