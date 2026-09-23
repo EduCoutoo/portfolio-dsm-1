@@ -1,5 +1,8 @@
 ### Café e Integração com a Turma
 
+*Fotos do café, da turma e dos momentos de integração realizados na faculdade.*
+
+
 Durante as primeiras semanas da faculdade, tivemos um momento de integração com a turma e alguns professores. Foi realizado um café em que os alunos puderam conversar, se conhecer melhor e ter um contato mais próximo com os professores.
 
 Além do momento do café, também tivemos registros da turma reunida em sala durante atividades e apresentações. Foi uma experiência importante para começar a conhecer melhor meus colegas e o ambiente da faculdade.
