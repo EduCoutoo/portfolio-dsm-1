@@ -1,27 +1,27 @@
 # Portfólio Digital - DSM
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Meu nome é Joel Gonçalves e sou estudante do curso de Desenvolvimento de Software Multiplataforma (DSM) da FATEC Indaiatuba.
 
 Este portfólio tem como objetivo registrar meu processo de aprendizagem durante o curso, apresentando atividades, exercícios, projetos e conhecimentos desenvolvidos ao longo da minha formação.
 
-## 🎓 Formação
+## Formação
 
 - Curso: Desenvolvimento de Software Multiplataforma (DSM)
 - Instituição: FATEC Indaiatuba
 - Ano: 2026
 
-## 👤 Perfil Acadêmico e Profissional
+## Perfil Acadêmico e Profissional
 
 Sou estudante de Desenvolvimento de Software Multiplataforma (DSM) e estou desenvolvendo conhecimentos na área de tecnologia, programação e desenvolvimento de software.
 
-## 📞 Contatos
+## Contatos
 
 - GitHub: joel-dev-crypto
 - joelgoncalvesdesouza50@gmail.com
 
-## 📚 Conteúdos
+## Conteúdos
 
 ### Capítulo 1
 Exercícios de introdução à lógica de programação.
@@ -35,7 +35,7 @@ Estruturas de controle:
 - Estrutura de seleção
 - Estrutura de repetição
 
-## 💻 Tecnologias
+## Tecnologias
 
 - Python
 - HTML
@@ -43,13 +43,13 @@ Estruturas de controle:
 - Git
 - GitHub
 
-## 📂 Projetos
+## Projetos
 
 Esta seção será atualizada durante o curso com novos projetos e atividades.
 
-## 📖 Diário de Bordo
+## Diário de Bordo
 
-### ☕ Café e Integração com a Turma
+### Café e Integração com a Turma
 
 Durante as primeiras semanas da faculdade, tivemos um momento de integração com a turma e alguns professores. Foi realizado um café em que os alunos puderam conversar, se conhecer melhor e ter um contato mais próximo com os professores.
 
